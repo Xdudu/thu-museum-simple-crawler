@@ -1,0 +1,15 @@
+{
+  "name": "crawler-for-pp",
+  "version": "1.0.0",
+  "description": "crawler for fun things for pp~",
+  "main": "crawler.js",
+  "author": "Xdudu",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": ">=0.22.0",
+    "url-parse": ">=1.1.9",
+    "request": ">=2.81.0",
+    "googleapis": ">=19.0.0",
+    "google-auth-library": ">=0.10.0"
+  }
+}
